@@ -1,1 +1,1 @@
-document.query.Selector('.tecla_tecla_pom').play() 
+document.query.Selector('#tecla_som_pom').play() 
